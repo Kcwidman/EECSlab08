@@ -1,0 +1,40 @@
+p
+{
+    background-color: grey; 
+    color: black;
+    font-family: arial;
+    font-size: 22pt;
+    width: 700;
+}
+
+h2
+{
+    padding-top: 20px;
+}
+
+body
+{
+    background-color: grey;
+    background-image: url(imgs/2.jpg); background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+ul li
+{
+    padding-top: 10px;
+}
+
+a
+{
+    font-family: arial;
+    font-size: 22pt;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover
+{
+    font-family: arial;
+    font-size: 22pt;
+    text-decoration: underline;
+}
